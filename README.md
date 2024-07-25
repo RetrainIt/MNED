@@ -1,4 +1,3 @@
-
 # MNED - Multimodal News Event Discovery dataset
 
 Welcome to the repository for the Multimodal News Event Discovery (MNED) dataset. This dataset collects a large number of samples for each event, and it can be used in the research of generalized news event detection algorithms.
